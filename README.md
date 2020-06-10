@@ -30,23 +30,23 @@ Character Reset plugin originally by [Bippity](https://github.com/bippity/Charac
 ### Commands
 `< >` indicates a parameter that must be entered for the command to work, while `[ ]` indicates an optional parameter. `|` means OR. You must surround your parameter (player name or item name) with `" "` if it contains spaces. If you want to reset an offline player, the name you enter must be exact and case sensitive.
 - `/resetcharacter <all|stats|inventory|quests|banks>`
- - Reset the player's own character
+  - Reset the player's own character
 - `/resetplayer <username> <all|stats|inventory|quests>`
- - Reset another player's character data
+  - Reset another player's character data
 - `/resetplayers <all|stats|inventory|quests>`
- - Reset all players' character data
+  - Reset all players' character data
  
 ### Parameters
 - `all`
- - Resets everything, use this with caution.
+  - Resets everything, use this with caution.
 - `stats`
- - Resets HP and MP.
+  - Resets HP and MP.
 - `inventory`
- - Resets inventory.
+  - Resets inventory.
 - `quests`
- - Resets Angler fishing quests.
+  - Resets Angler fishing quests.
 - `banks`
- - Resets all four banks.
+  - Resets all four banks.
 
 ## Examples 
 - Reset your own fishing quests
